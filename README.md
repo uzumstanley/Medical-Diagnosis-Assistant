@@ -4,7 +4,7 @@ Project Overview
 
 Welcome to the Medical Diagnosis Assistant, an advanced healthcare application that combines machine learning with medical knowledge to provide preliminary health assessments. This project was developed to assist users in understanding potential health conditions based on their symptoms, while providing comprehensive health recommendations.
 
-
+link for the App: https://medical-diagnosis-assistant-system.streamlit.app/
 Medical Diagnosis Interface
 
 Key Features and Capabilities
